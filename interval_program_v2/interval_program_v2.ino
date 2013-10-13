@@ -44,7 +44,7 @@
 
 // ====== Ethernet defines ======
 byte mymac[] = { 0x00,0x69,0x69,0x2D,0x30,0x00 }; // mac address
-byte ntpip[] = { 204,9,54,119};            // Default NTP server ip
+byte ntpip[] = { 64,90,182,55};            // Default NTP server ip
 uint8_t ntpclientportL = 123;              // Default NTP client port
 int myport;
 
